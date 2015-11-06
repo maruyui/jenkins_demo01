@@ -5,7 +5,7 @@
 class Arithmetic
 {
     /**
-     * 引数x,yの足し算を行う
+     * 引数x,yの足し算を行います
      */
     public function addition($x, $y) {
         $ret = $x + $y;
